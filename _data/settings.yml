@@ -103,14 +103,19 @@ social:
 education-title: Education
 education:
   - {
-      name: Master of Arts (Economics),
-      date: "2017",
-      organization: "Delhi School of Economics",
+      name: PhD Candidate(Economics),
+      date: "2020-2024(tentative)",
+      organization: "European University Institute",
     }
   - {
       name: Master of Research,
       date: "2020",
       organization: "European University Institute",
+    }
+    - {
+      name: Master of Arts (Economics),
+      date: "2017",
+      organization: "Delhi School of Economics",
     }
   - {
       name: Bachelor of Technology(Mechanical Engineering),
