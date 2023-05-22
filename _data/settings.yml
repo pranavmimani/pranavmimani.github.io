@@ -57,7 +57,7 @@ social:
 
 # Work Process Section
 work-process:
- - title: "{Beliefs, Aggregate Productivity and Wages: Role of expectation in labor market dynamics"
+ - title: "Beliefs, Aggregate Productivity and Wages: Role of expectation in labor market dynamics"
   #  icon: "assets/images/icons/plan.png"
     content: " In the standard rational expectations equilibrium in  search framework of Diamond-Mortensen-Pissarides(DMP), all agents in the economy know the stochastic process for aggregate productivity and the mapping from it to the endogenous variables such as probability of finding a job. However, the DMP model fails to match the data (\cite{shimer_cyclical_2005}).  In this paper, I use heterogeneity in workers' perception of aggregate productivity process to replicate features of US data. Incentives to create jobs is driven by the interactions of firm with workers of two types: rational workers as in the standard DMP framework, and ``stubborn workers'' as in the framework of \cite{menzio}. Differences in worker types drive differences in wage contracts based on bargaining protocol of Binmore-Rubinstein-Wolinsky with stubborn workers negotiating a fixed wage while rational workers asking for aggregate productivity-linked flexible wages. Firm incentives to create jobs is based on the composition of the two types of workers and provides rich ground for analysis. The framework is able to replicate features of the data for reasonable calibration of the parameters."
 
