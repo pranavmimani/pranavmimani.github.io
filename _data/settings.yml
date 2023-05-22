@@ -140,12 +140,12 @@ education:
 
 # Portfolio Home Section
 portfolio-home-items:
- - image: "assets/images/portfolio/item-1.png"
+- image: "assets/images/portfolio/item-1.png"
   url: "#"
 
 # Portfolio Page
 portfolio-label:
- - { title: "UI/UX Design", type: "design" }
+- { title: "UI/UX Design", type: "design" }
 - { title: "BRANDING", type: "branding" }
 - { title: "ILLUSTRATION", type: "illustration" }
 
