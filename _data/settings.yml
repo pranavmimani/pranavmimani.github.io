@@ -150,8 +150,8 @@ portfolio-label:
 - { title: "ILLUSTRATION", type: "illustration" }
 
 #portfolio-items:
- # - image: "assets/images/portfolio/item-1.png"
-  #  url: "#"
+  - image: "assets/images/portfolio/item-1.png"
+   url: "#"
   portfolio-type:
    - type: "design"
   - type: "illustration"
