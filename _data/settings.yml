@@ -28,9 +28,6 @@ menu:
 google-analytics: # UA-XXXXXX-X
 
 #-------------------------------
-# Comment Section (Disqus)
-
-disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 
 #-------------------------------
 # Hero Section
@@ -38,66 +35,12 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 hero:
   hero-title: Hi! I’m <br> Pranav Mimani <br> Macro-Labor Economist
 
-social:
-#  - { icon: "ti-facebook", link: "#" }
-#  - { icon: "ti-instagram", link: "#" }
-#  - { icon: "ti-dribbble", link: "#" }
-#  - { icon: "ti-twitter", link: "#" }
-
-#-------------------------------
-# About (Section and Page)
-
-# About Section
-#blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-#blurb-btn-link: "/about"
-#blurb-btn-name: know more
-
-# About Page
-
 # Work Process Section
-#work-process:
-# - title: "Beliefs, Aggregate Productivity and Wages: Role of expectation in labor market dynamics"
-  #  icon: "assets/images/icons/plan.png"
- #   content: " In the standard rational expectations equilibrium in  search framework of Diamond-Mortensen-Pissarides(DMP), all agents in the economy know the stochastic process for aggregate productivity and the mapping from it to the endogenous variables such as probability of finding a job. However, the DMP model fails to match the data (\cite{shimer_cyclical_2005}).  In this paper, I use heterogeneity in workers' perception of aggregate productivity process to replicate features of US data. Incentives to create jobs is driven by the interactions of firm with workers of two types: rational workers as in the standard DMP framework, and ``stubborn workers'' as in the framework of \cite{menzio}. Differences in worker types drive differences in wage contracts based on bargaining protocol of Binmore-Rubinstein-Wolinsky with stubborn workers negotiating a fixed wage while rational workers asking for aggregate productivity-linked flexible wages. Firm incentives to create jobs is based on the composition of the two types of workers and provides rich ground for analysis. The framework is able to replicate features of the data for reasonable calibration of the parameters."
+work-process:
+- title: "Beliefs, Aggregate Productivity and Wages Role of expectation in labor market dynamics"
+  icon: "assets/images/icons/plan.png"
+  content: "In the standard rational expectations equilibrium in  search framework of Diamond-Mortensen-Pissarides(DMP), all agents in the economy know the stochastic process for aggregate productivity and the mapping from it to the endogenous variables such as probability of finding a job. However, the DMP model fails to match the data (\cite{shimer_cyclical_2005}).  In this paper, I use heterogeneity in workers' perception of aggregate productivity process to replicate features of US data. Incentives to create jobs is driven by the interactions of firm with workers of two types: rational workers as in the standard DMP framework, and ``stubborn workers'' as in the framework of \cite{menzio}. Differences in worker types drive differences in wage contracts based on bargaining protocol of Binmore-Rubinstein-Wolinsky with stubborn workers negotiating a fixed wage while rational workers asking for aggregate productivity-linked flexible wages. Firm incentives to create jobs is based on the composition of the two types of workers and provides rich ground for analysis. The framework is able to replicate features of the data for reasonable calibration of the parameters."
 
-  #- title: "Design and Develop"
-  #  icon: "assets/images/icons/design.png"
-   # content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
- # - title: "Deliver"
-  #  icon: "assets/images/icons/print.png"
-   # content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
-# My Team Section
-#team:
- # - title: "Jack Schenziwe"
-  #  image: "assets/images/team/member-1.png"
-   # designation: "Project Manager"
-
-#-------------------------------
-# Skills Section
-
-#skills-title: Skills
-#skills:
- # - { name: Web Design, color: "#fdb157", value: "90%" }
-  #- { name: Logo Design, color: "#9473e6", value: "60%" }
- # - { name: After Effects, color: "#bdecf6", value: "80%" }
- # - { name: Web App, color: "#ffbcaa", value: "70%" }
-
-#-------------------------------
-# Exprerience Section
-
-#experience-title: Experience
-#experience:
- # - {
-  #    name: Junior UX Designer,
-   #   icon: "icon-1.png",
-    #  date: "Jan 2007 - Feb 2009",
-     # organization: "WEBEX",
-  #  }
-  
-#-------------------------------
 # Education Section
 
 education-title: Education
@@ -123,57 +66,6 @@ education:
       organization: "Shiv Nadar University",
     }
   
-#-------------------------------
-# Services Section
-
-#services-title: Services
-#services:
- # - {
-  #    name: UI Design,
-   #   icon: ti-palette,
-  #    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-  #    active: ,# Add true to select section
-  #  }
-  
-#-------------------------------
-# Portfolio (Section and Page)
-
-# Portfolio Home Section
-portfolio-home-items:
-- image: "assets/images/portfolio/item-1.png"
-  url: "#"
-
-# Portfolio Page
-portfolio-label:
-- { title: "UI/UX Design", type: "design" } 
-#portfolio-items:
-  
-  portfolio-type:
-   - type: "design"
- 
-
- # - image: "assets/images/portfolio/item-2.png"
-  #  url: "#"
-   # portfolio-type:
-    #  - type: "branding"
-
-#-------------------------------
-# Testimonials Section
-
-#testimonial-items:
- # - name: "Jesica Gomez"
- #   image: "assets/images/testimonial/client-1.png"
- #   designation: "CEO, Funder"
-  #  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-
-  
-#-------------------------------
-# Client Slider Section
-
-#client-slider-items:
- # - logo: "assets/images/clients-logo/client-logo-1.png"
-  #  url: "#"
-
 #-------------------------------
 # Contact Section
 
