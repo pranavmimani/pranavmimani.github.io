@@ -7,14 +7,14 @@ logo:
 author: Pranav
 description: I am a Macroeconomist
 email: pranav.mimani@eui.eu; mimanipranav@gmail.com
-phone: 
-address: 
-copyright: 
+phone:
+address:
+copyright:
 
 menu:
   - { name: About, link: "/about" }
 #  - { name: Blog, link: "/blog" }
-#  - { name: Research, link: "/portfolio" }
+  - { name: Research, link: "/portfolio" }
   - { name: Contact, link: "/contact" }
 
 #-------------------------------
@@ -65,7 +65,39 @@ education:
       date: "2015",
       organization: "Shiv Nadar University",
     }
-  
+
+#-------------------------------
+# Exprerience Section
+experience-title: Teaching
+experience:
+  - {
+    name:  ECONOMICS I ,
+    desc: TA for Daniela Iorio,
+    level: Graduate,
+#   icon: "icon-1.png",
+    date: "Fall 2021, Fall 2022",
+    organization: "School of Transnational Governance-EUI",
+  }
+
+  - {
+    name: MACROECONOMICS II,
+    desc: TA for Argo Bhattacharya,
+    level: Graduate,
+#   icon: "icon-1.png",
+    date: "Spring 2018",
+    organization: "Ashoka University-India",
+  }
+
+  - {
+    name: MACROECONOMICS I,
+    desc: TA for Anuradha Saha,
+    level: Graduate,
+#   icon: "icon-1.png",
+    date: "Fall 2017",
+    organization: "Ashoka University-India",
+  }
+#-------------------------------
+
 #-------------------------------
 # Contact Section
 

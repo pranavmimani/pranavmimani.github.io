@@ -8,9 +8,11 @@
       </div>
       {% for experience in site.data.settings.experience %}
       <div class="col-lg-3 col-md-4 text-center">
-        <img src="{{ site.baseurl }}/assets/images/experience/{{ experience.icon }}" alt="{{ site.data.settings.experience-title }} icon">
-        <p class="mb-0">{{ experience.date }}</p>
+        <!--<img src="{{ site.baseurl }}/assets/images/experience/{{ experience.icon }}" alt="{{ site.data.settings.experience-title }} icon"> -->
+        <h4>{{ experience.desc }}</h4>
         <h4>{{ experience.name }}</h4>
+        <p class="mb-0">{{ experience.level }}</p>
+        <p class="mb-0">{{ experience.date }}</p>
         <h6 class="text-light">{{ experience.organization }}</h6>
       </div>
       {% endfor %}
