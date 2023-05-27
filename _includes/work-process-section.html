@@ -4,17 +4,22 @@
   <div class="container">
     <div class="row justify-content-around">
       <div class="col-lg-12 text-center">
-        <h2 class="section-title">Research</h2>
+        <h3 class="section-title">Research</h3>
       </div>
-      {% for work in site.data.settings.work-process %}
-      <div class="col-lg-3 col-md-4 text-center hover-shadow pt-3">
+      <!-- {% for work in site.data.settings.work-process %} -->
+      <!-- <div class="col-lg-3 col-md-4 text-center hover-shadow pt-3"> -->
         <!-- <img src="{{ work.icon | relative_url }}" class="mb-4" alt="icon"> -->
-        <h4 class="mb-4">{{ work.title }}</h4>
-        <p>{{ work.content | markdownify }}</p>
+        <!-- <h4 class="mb-4">{{ work.title }}</h4> -->
+      <h5>Working on: Beliefs, Aggregate Productivity and Wages: Role of expectation in labor market dynamics</h5>
+      <p> The project analyses firm responses when workers are uninformed about their productivity.
+        Firms face a heterogeneous work force with a measure of uninformed workers who demand wages that are not
+        linked to the current productivity. The model is discplined through application to Shimer-Puzzle. <br>
+      You can find more about my research here.
+    </p>
       </div>
-      {% endfor %}
+      <!-- {% endfor %} -->
     </div>
-  </div>
+  <!-- </div> -->
 </section>
 <!-- ./Work Process -->
 {% endif %}

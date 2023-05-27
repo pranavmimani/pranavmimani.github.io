@@ -12,9 +12,10 @@ address:
 copyright:
 
 menu:
-  - { name: About, link: "/about" }
+#  - { name: About, link: "/about" }
 #  - { name: Blog, link: "/blog" }
   - { name: Research, link: "/portfolio" }
+  - { name: Teaching, link: "/teaching" }
   - { name: Contact, link: "/contact" }
 
 #-------------------------------
@@ -33,13 +34,16 @@ google-analytics: # UA-XXXXXX-X
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Pranav Mimani <br> Macro-Labor Economist
+  hero-title: Hi! I’m Pranav Mimani.
+  hero-desc: I am a PhD candidate at the European University Institute. My supervisors are Prof Russell Cooper and Prof Alexander Monge-Naranjo.<br> My research interests are on the intersection of Macroeconomics and Labor Markets.
 
 # Work Process Section
 work-process:
-- title: "Beliefs, Aggregate Productivity and Wages Role of expectation in labor market dynamics"
-  icon: "assets/images/icons/plan.png"
+- {
+  title: "Beliefs, Aggregate Productivity and Wages: Role of expectation in labor market dynamics"
+  # icon: "assets/images/icons/plan.png"
  # content: "In the standard rational expectations equilibrium in  search framework of Diamond-Mortensen-Pissarides(DMP), all agents in the economy know the stochastic process for aggregate productivity and the mapping from it to the endogenous variables such as probability of finding a job. However, the DMP model fails to match the data (\cite{shimer_cyclical_2005}).  In this paper, I use heterogeneity in workers' perception of aggregate productivity process to replicate features of US data. Incentives to create jobs is driven by the interactions of firm with workers of two types: rational workers as in the standard DMP framework, and ``stubborn workers'' as in the framework of \cite{menzio}. Differences in worker types drive differences in wage contracts based on bargaining protocol of Binmore-Rubinstein-Wolinsky with stubborn workers negotiating a fixed wage while rational workers asking for aggregate productivity-linked flexible wages. Firm incentives to create jobs is based on the composition of the two types of workers and provides rich ground for analysis. The framework is able to replicate features of the data for reasonable calibration of the parameters."
+}
 
 # Education Section
 
@@ -69,6 +73,10 @@ education:
 #-------------------------------
 # Exprerience Section
 experience-title: Teaching
+experience-label:
+  - { title: "Undergrad", type: "Undergrad" }
+  - { title: "Graduate", type: "Graduate" }
+
 experience:
   - {
     name:  ECONOMICS I ,
@@ -97,9 +105,14 @@ experience:
     organization: "Ashoka University-India",
   }
 #-------------------------------
-
+#Research portfolio
+portfolio-label:
+- { title : Beliefs Aggregate Productivity and Wages- Role of Expectations in Labor Markets,
+  content : "In the standard rational expectations equilibrium in  search framework of Diamond-Mortensen-Pissarides(DMP), all agents in the economy know the stochastic process for aggregate productivity and the mapping from it to the endogenous variables such as probability of finding a job. However, the DMP model fails to match the data (Shimer 2005).  In this paper, I use heterogeneity in workers' perception of aggregate productivity process to replicate features of US data. Incentives to create jobs is driven by the interactions of firm with workers of two types: rational workers as in the standard DMP framework, and ``stubborn workers'' as in the framework of Menzio (2022). Differences in worker types drive differences in wage contracts based on bargaining protocol of Binmore-Rubinstein-Wolinsky with stubborn workers negotiating a fixed wage while rational workers asking for aggregate productivity-linked flexible wages. Firm incentives to create jobs is based on the composition of the two types of workers and provides rich ground for analysis. The framework is able to replicate features of the data for reasonable calibration of the parameters."}
+#- { title: "Undergrad", type: "Undergrad" }
+#- { title: "Graduate", type: "Graduate" }
 #-------------------------------
 # Contact Section
 
 #contact-title: Contact Info
-contact-email: mimanipranav@gmail.com
+contact-email: pranav.mimani@eui.eu; mimanipranav@gmail.com
