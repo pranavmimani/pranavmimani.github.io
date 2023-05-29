@@ -3,16 +3,16 @@
 # General Site Settings
 
 title: Pranav Mimani
-logo:
+#logo:
 author: Pranav
 description: I am a Macroeconomist
 email: pranav.mimani@eui.eu; mimanipranav@gmail.com
-phone:
-address:
+#phone:
+#address:
 copyright:
 
 menu:
-#  - { name: About, link: "/about" }
+  - { name: About, link: "/about" }
 #  - { name: Blog, link: "/blog" }
   - { name: Research, link: "/portfolio" }
   - { name: Teaching, link: "/teaching" }

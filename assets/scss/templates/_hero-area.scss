@@ -9,6 +9,14 @@
     position: relative;
     z-index: 2;
   }
+#p1{
+  position: relative;
+  z-index: 2;
+  top: -20px;
+  right: -850px;
+  bottom: -20px;
+}
+
 }
 
 .layer {
@@ -59,6 +67,14 @@
 #l9 {
   bottom: 100px;
   right: -10px;
+}
+
+#l10 {
+  position: relative;
+  z-index: 1;
+  bottom: -100px;
+  right: -10px;
+  padding: 350px 0 70px;
 }
 
 .layer-bg {
