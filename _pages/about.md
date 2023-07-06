@@ -14,4 +14,4 @@ My research focuses on the role of information and expectations for workers in d
 I was born and brought up in India. I graduated from the Delhi School of Economics, India with a Master of Arts (Economics) degree. I hold a Bachelor of Technology degree in Mechanical Engineering from Shiv Nadar University.
 
   
-I can be contacted at Email : pranav.mimani@eui.eu
+I can be contacted at Email : pranav.mimani[at]eui.eu
